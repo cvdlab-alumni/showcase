@@ -33,3 +33,5 @@ XXXXXX
 ```
 
 > where `XXXXXX` is the name of your repository (your matricola)
+
+The delivery is required within Tuesday, May 15th.
