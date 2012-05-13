@@ -20,11 +20,11 @@ where `xxxxxx` is your student ID  (matricola).
 
 The model must be delivered in a file named `model.js`.  
 
-The entire model must be stored in a variable named `model`,  
+The entire model must be stored in a global variable named `scmodel`,  
 you have to be able to:
 
-- display the entire model by running `DRAW(model)`
-- cancel the entire model by running `CANCEL(model)`
+- display the entire model by running `DRAW(scmodel)`
+- cancel the entire model by running `CANCEL(scmodel)`
 
 
 You have to provide even a `snapshot.jpg` of the model in a 400x300 format.  
