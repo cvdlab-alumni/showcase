@@ -20,6 +20,13 @@ where `xxxxxx` is your student ID  (matricola).
 
 The model must be delivered in a file named `model.js`.  
 
+The entire model must be stored in a variable named `model`,  
+you have to be able to:
+
+- display the entire model by running `DRAW(model)`
+- cancel the entire model by running `CANCEL(model)`
+
+
 You have to provide even a `snapshot.jpg` of the model in a 400x300 format.  
 
 
