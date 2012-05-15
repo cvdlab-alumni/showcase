@@ -30,8 +30,8 @@ var reclinabile = T([1,2])([1+0.05,0.45-0.02])(R([1,2])([-alpha])(T([1,2])([-1,-
 var sdraio = STRUCT([braccioli,reclinabile,fisso]);
 
 
-var sdraio1 = T([0,1,2])([24,2,0.7])(R([0,1])([90*gradi])(sdraio));
-var sdraio2 = T([0,1,2])([24,6,0.7])(R([0,1])([90*gradi])(sdraio));
+var sdraio1 = T([0,1,2])([24,2,1])(R([0,1])([90*gradi])(sdraio));
+var sdraio2 = T([0,1,2])([24,6,1])(R([0,1])([90*gradi])(sdraio));
 
 var duesdraio = STRUCT([sdraio1,sdraio2]);
 
