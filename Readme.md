@@ -70,7 +70,7 @@ Simply use the template below:
 - put a category for the model where indicated (examples of categories are `devices`, `biologics`, `vehicles`, `fornitures`, `games`, `buildings`, `others`, ...)
 
 
-```
+```js
 !(function (exports){
 
   var fs = require('fs');
