@@ -62,7 +62,7 @@ A screenshot of the model must be provided as 400x300px jpeg format and named `s
 
 ## `node.js`
 
-A `node.js` file useful to compute your model via [Node.js](nodejs.org) is required.  
+A `node.js` file useful to compute your model via [Node.js](http://nodejs.org) is required.  
 Simply use the template below:
 
 - paste the content of `code.js` where indicated
