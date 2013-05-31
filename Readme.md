@@ -59,8 +59,8 @@ THERE MUST NOT BE a `DRAW` command in the `code.js` file.
 
 A screenshot of the model must be provided as 400x300px jpeg format and named `snapshot.jpeg`.   
 
-> PAY ATTENTION:
-> a screenshot of the model you built in Plasm.js environment is required.
+> PAY ATTENTION:   
+> a screenshot of the model you built in Plasm.js environment is required.   
 > Take a look of [Plasm.js showcase](http://cvdlab.github.io/plasm.js/showcase.html#/category/devices) to fully understand requirements.
 
 
@@ -130,7 +130,7 @@ To be able to run Plasm.js in Node.js you should install the `plasm.js` module:
 $ npm install plasm.js
 ```
 
-> PAY ATTENTION:
+> PAY ATTENTION:   
 > DO NOT PUSH `node_modules` FOLDER
 
 
